@@ -6,4 +6,8 @@ This Python Script will copy files from different directory and  push it to targ
 
 Problem: I used everything to search for some files and then copied them and want to move to target folder for analysis. 
 
-2. Get a free account on macaddress[.]io and grab the API and convert multiple MAC addresses to vendor.  This works better than free checks from macvendors[.]io in my investigations. 
+2. maccadressTOvendorv1.py
+Get a free account on macaddress[.]io and grab the API and convert multiple MAC addresses to vendor.  This works better than free checks from macvendors[.]io in my investigations. 
+
+3. maccadressTOvendorv2.py
+Convert MAC address to vendors without account creation thus free. 
